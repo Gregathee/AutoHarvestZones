@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <AutoHarvestLabel>自动收获</AutoHarvestLabel>
+    <AutoHarvestDescription>自动收获此植物</AutoHarvestDescription>
+
+    <HarvestTreeZoneLabel>树木收获区</HarvestTreeZoneLabel>
+    <HarvestTreeZoneDesc>收获此区域内的所有树木</HarvestTreeZoneDesc>
+    <HarvestPartiallyGrownLabel>收获部分成熟的树木</HarvestPartiallyGrownLabel>
+    <HarvestPartiallyGrownDesc>仅收获部分成熟的树木</HarvestPartiallyGrownDesc>
+    <HarvestFullyGrownLabel>收获完全成熟的树木</HarvestFullyGrownLabel>
+    <HarvestFullyGrownDesc>仅收获完全成熟的植物</HarvestFullyGrownDesc>
+    <DesignatorHarvestTreeZoneExpand>扩展区域</DesignatorHarvestTreeZoneExpand>
+
+    <CopyZoneSettingsLabel>复制设置</CopyZoneSettingsLabel>
+    <CopyZoneSettingsDesc>将此区域的设置复制到剪贴板，以便粘贴到另一个区域。</CopyZoneSettingsDesc>
+
+    <PasteZoneSettingsLabel>粘贴设置</PasteZoneSettingsLabel>
+    <PasteZoneSettingsDesc>使用之前复制到剪贴板的设置覆盖此区域的设置。</PasteZoneSettingsDesc>
+</LanguageData>

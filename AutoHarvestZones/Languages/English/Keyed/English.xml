@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <AutoHarvestLabel>Auto Harvest</AutoHarvestLabel>
+    <AutoHarvestDescription>Automatically harvest this plant</AutoHarvestDescription>
+
+    <HarvestTreeZoneLabel>Harvest Tree Zone</HarvestTreeZoneLabel>
+    <HarvestTreeZoneDesc>Harvest all trees in this zone</HarvestTreeZoneDesc>
+    <HarvestPartiallyGrownLabel>Harvest Partially Grown</HarvestPartiallyGrownLabel>
+    <HarvestPartiallyGrownDesc>Only harvest partially grown trees</HarvestPartiallyGrownDesc>
+    <HarvestFullyGrownLabel>Harvest Fully Grown</HarvestFullyGrownLabel>
+    <HarvestFullyGrownDesc>Only Harvest fully grown plants</HarvestFullyGrownDesc>
+    <DesignatorHarvestTreeZoneExpand>Expand Zone</DesignatorHarvestTreeZoneExpand>
+
+    <CopyZoneSettingsLabel>Copy settings</CopyZoneSettingsLabel>
+    <CopyZoneSettingsDesc>Copy this zone's settings to the clipboard so you can paste them onto another zone.</CopyZoneSettingsDesc>
+
+    <PasteZoneSettingsLabel>Paste settings</PasteZoneSettingsLabel>
+    <PasteZoneSettingsDesc>Overwrite this zone's settings with those previously copied to the clipboard.</PasteZoneSettingsDesc>
+</LanguageData>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>AutoHarvestZones</name>
+    <description>
+    <![CDATA[
+    Tired of manually clearing trees to remove cover for raiders or to keep your wind turbines running at max efficiency? 
+    Or maybe you just want to automate the process of harvesting trees for wood? This mod is for you!
+
+    <b>Key Features:</b>
+    - <i>Tree Harvesting Zones</i>: Place zones that automatically harvest and clear trees. Each zone can be set to wait until trees are harvestable, fully grown, or to cut any saplings.
+    - <i>Auto-Harvest for Plants</i>: Automatically designate plants like berry bushes, healroot, ambrosia, and more for harvest when they are ready. No more forgetting to gather resources like berries or ambrosia during critical survival moments.
+
+    With <b>AutoHarvestZones</b>, managing your resources has never been easier, leaving you with more time to focus on other tasks while ensuring your colony thrives.
+    ]]>
+</description>
+
+    <author>HobbitCraftGames</author>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <packageId>hobbitcraftgames.autoharvestzones</packageId>
+    <modDependencies>
+    <li>
+        <packageId>brrainz.harmony</packageId>
+        <displayName>Harmony</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+        <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+</modDependencies>
+</ModMetaData>

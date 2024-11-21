@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <AutoHarvestLabel>Automatyczne zbieranie</AutoHarvestLabel>
+    <AutoHarvestDescription>Automatycznie zbieraj tę roślinę</AutoHarvestDescription>
+
+    <HarvestTreeZoneLabel>Strefa zbierania drzew</HarvestTreeZoneLabel>
+    <HarvestTreeZoneDesc>Zbieraj wszystkie drzewa w tej strefie</HarvestTreeZoneDesc>
+    <HarvestPartiallyGrownLabel>Zbieraj częściowo dojrzałe</HarvestPartiallyGrownLabel>
+    <HarvestPartiallyGrownDesc>Zbieraj tylko częściowo dojrzałe drzewa</HarvestPartiallyGrownDesc>
+    <HarvestFullyGrownLabel>Zbieraj w pełni dojrzałe</HarvestFullyGrownLabel>
+    <HarvestFullyGrownDesc>Zbieraj tylko w pełni dojrzałe rośliny</HarvestFullyGrownDesc>
+    <DesignatorHarvestTreeZoneExpand>Rozszerz strefę</DesignatorHarvestTreeZoneExpand>
+
+    <CopyZoneSettingsLabel>Skopiuj ustawienia</CopyZoneSettingsLabel>
+    <CopyZoneSettingsDesc>Skopiuj ustawienia tej strefy do schowka, aby wkleić je do innej strefy.</CopyZoneSettingsDesc>
+
+    <PasteZoneSettingsLabel>Wklej ustawienia</PasteZoneSettingsLabel>
+    <PasteZoneSettingsDesc>Zastąp ustawienia tej strefy ustawieniami skopiowanymi wcześniej do schowka.</PasteZoneSettingsDesc>
+</LanguageData>

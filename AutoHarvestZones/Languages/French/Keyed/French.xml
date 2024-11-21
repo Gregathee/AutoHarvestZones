@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <AutoHarvestLabel>Cueillette automatique</AutoHarvestLabel>
+    <AutoHarvestDescription>Cueillez cette plante automatiquement</AutoHarvestDescription>
+
+    <HarvestTreeZoneLabel>Zone de récolte des arbres</HarvestTreeZoneLabel>
+    <HarvestTreeZoneDesc>Récoltez tous les arbres dans cette zone</HarvestTreeZoneDesc>
+    <HarvestPartiallyGrownLabel>Récolter partiellement mûrs</HarvestPartiallyGrownLabel>
+    <HarvestPartiallyGrownDesc>Récoltez uniquement les arbres partiellement mûrs</HarvestPartiallyGrownDesc>
+    <HarvestFullyGrownLabel>Récolter entièrement mûrs</HarvestFullyGrownLabel>
+    <HarvestFullyGrownDesc>Récoltez uniquement les plantes complètement mûres</HarvestFullyGrownDesc>
+    <DesignatorHarvestTreeZoneExpand>Étendre la zone</DesignatorHarvestTreeZoneExpand>
+
+    <CopyZoneSettingsLabel>Copier les paramètres</CopyZoneSettingsLabel>
+    <CopyZoneSettingsDesc>Copiez les paramètres de cette zone dans le presse-papiers pour les coller dans une autre zone.</CopyZoneSettingsDesc>
+
+    <PasteZoneSettingsLabel>Coller les paramètres</PasteZoneSettingsLabel>
+    <PasteZoneSettingsDesc>Remplacez les paramètres de cette zone par ceux copiés précédemment dans le presse-papiers.</PasteZoneSettingsDesc>
+</LanguageData>

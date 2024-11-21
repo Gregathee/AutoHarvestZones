@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <ClearTreeAreaLabel>Zone de suppression des arbres</ClearTreeAreaLabel>
+    <ClearTreeExpandLabel>Étendre la zone de suppression des arbres</ClearTreeExpandLabel>
+    <ClearTreeClearLabel>Supprimer les arbres</ClearTreeClearLabel>
+    <AutoHarvestLabel>Auto-collecte</AutoHarvestLabel>
+    <AutoHarvestDescription>Collecte automatique de cette plante</AutoHarvestDescription>
+</LanguageData>
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <ClearTreeAreaLabel>Área de eliminación de árboles</ClearTreeAreaLabel>
+    <ClearTreeExpandLabel>Expandir área de eliminación de árboles</ClearTreeExpandLabel>
+    <ClearTreeClearLabel>Eliminar árboles</ClearTreeClearLabel>
+    <AutoHarvestLabel>Cosecha automática</AutoHarvestLabel>
+    <AutoHarvestDescription>Cosecha automática de esta planta</AutoHarvestDescription>
+</LanguageData>

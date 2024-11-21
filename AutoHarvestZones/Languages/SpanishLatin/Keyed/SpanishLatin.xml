@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <AutoHarvestLabel>Cosecha automática</AutoHarvestLabel>
+    <AutoHarvestDescription>Cosecha automáticamente esta planta</AutoHarvestDescription>
+
+    <HarvestTreeZoneLabel>Zona de Cosecha de Árboles</HarvestTreeZoneLabel>
+    <HarvestTreeZoneDesc>Cosecha todos los árboles en esta zona</HarvestTreeZoneDesc>
+    <HarvestPartiallyGrownLabel>Cosechar Crecimiento Parcial</HarvestPartiallyGrownLabel>
+    <HarvestPartiallyGrownDesc>Solo cosechar árboles parcialmente crecidos</HarvestPartiallyGrownDesc>
+    <HarvestFullyGrownLabel>Cosechar Completamente Crecido</HarvestFullyGrownLabel>
+    <HarvestFullyGrownDesc>Solo cosechar plantas completamente crecidas</HarvestFullyGrownDesc>
+    <DesignatorHarvestTreeZoneExpand>Expandir Zona</DesignatorHarvestTreeZoneExpand>
+
+    <CopyZoneSettingsLabel>Copiar configuraciones</CopyZoneSettingsLabel>
+    <CopyZoneSettingsDesc>Copiar las configuraciones de esta zona al portapapeles para pegarlas en otra zona.</CopyZoneSettingsDesc>
+
+    <PasteZoneSettingsLabel>Pegar configuraciones</PasteZoneSettingsLabel>
+    <PasteZoneSettingsDesc>Sustituir las configuraciones de esta zona con las copiadas previamente al portapapeles.</PasteZoneSettingsDesc>
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <AutoHarvestLabel>자동 수확</AutoHarvestLabel>
+    <AutoHarvestDescription>이 식물을 자동으로 수확합니다</AutoHarvestDescription>
+
+    <HarvestTreeZoneLabel>나무 수확 존</HarvestTreeZoneLabel>
+    <HarvestTreeZoneDesc>이 존에서 모든 나무를 수확합니다</HarvestTreeZoneDesc>
+    <HarvestPartiallyGrownLabel>부분적으로 자란 나무 수확</HarvestPartiallyGrownLabel>
+    <HarvestPartiallyGrownDesc>부분적으로 자란 나무만 수확합니다</HarvestPartiallyGrownDesc>
+    <HarvestFullyGrownLabel>완전히 자란 나무 수확</HarvestFullyGrownLabel>
+    <HarvestFullyGrownDesc>완전히 자란 나무만 수확합니다</HarvestFullyGrownDesc>
+    <DesignatorHarvestTreeZoneExpand>존 확장</DesignatorHarvestTreeZoneExpand>
+
+    <CopyZoneSettingsLabel>설정 복사</CopyZoneSettingsLabel>
+    <CopyZoneSettingsDesc>이 존의 설정을 클립보드에 복사하여 다른 존에 붙여넣을 수 있습니다.</CopyZoneSettingsDesc>
+
+    <PasteZoneSettingsLabel>설정 붙여넣기</PasteZoneSettingsLabel>
+    <PasteZoneSettingsDesc>이 존의 설정을 클립보드에 복사된 설정으로 덮어씁니다.</PasteZoneSettingsDesc>
+</LanguageData>

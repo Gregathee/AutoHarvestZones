@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <AutoHarvestLabel>Автосбор</AutoHarvestLabel>
+    <AutoHarvestDescription>Автоматически собирать это растение</AutoHarvestDescription>
+
+    <HarvestTreeZoneLabel>Зона сбора деревьев</HarvestTreeZoneLabel>
+    <HarvestTreeZoneDesc>Собирать все деревья в этой зоне</HarvestTreeZoneDesc>
+    <HarvestPartiallyGrownLabel>Собирать частично зрелые</HarvestPartiallyGrownLabel>
+    <HarvestPartiallyGrownDesc>Собирать только частично зрелые деревья</HarvestPartiallyGrownDesc>
+    <HarvestFullyGrownLabel>Собирать полностью зрелые</HarvestFullyGrownLabel>
+    <HarvestFullyGrownDesc>Собирать только полностью зрелые растения</HarvestFullyGrownDesc>
+    <DesignatorHarvestTreeZoneExpand>Расширить зону</DesignatorHarvestTreeZoneExpand>
+
+    <CopyZoneSettingsLabel>Скопировать настройки</CopyZoneSettingsLabel>
+    <CopyZoneSettingsDesc>Скопировать настройки этой зоны в буфер обмена для вставки в другую зону.</CopyZoneSettingsDesc>
+
+    <PasteZoneSettingsLabel>Вставить настройки</PasteZoneSettingsLabel>
+    <PasteZoneSettingsDesc>Перезаписать настройки этой зоны настройками, ранее скопированными в буфер обмена.</PasteZoneSettingsDesc>
+</LanguageData>
