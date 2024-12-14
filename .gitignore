@@ -1,6 +1,6 @@
 # Ignore the bin and obj directories
-/bin/
-/obj/
+/AutoHarvestZones/Source/AutoHarvestZones/bin/
+/AutoHarvestZones/Source/AutoHarvestZones/obj/
 
 # Rider specific files
 .idea/
@@ -21,6 +21,7 @@
 # Ignore build output directories
 /build/
 /dist/
+/AutoHarvestZones/assemblies/
 
 # Ignore dependency files
 /packages/

@@ -5,3 +5,10 @@ D:\Steam\steamapps\common\RimWorld\Mods\AutoHarvestZones\Source\AutoHarvestZones
 D:\Steam\steamapps\common\RimWorld\Mods\AutoHarvestZones\Source\AutoHarvestZones\obj\Debug\AutoHarvestZones.dll
 D:\Steam\steamapps\common\RimWorld\Mods\AutoHarvestZones\Source\AutoHarvestZones\obj\Debug\AutoHarvestZones.pdb
 D:\Steam\steamapps\common\RimWorld\Mods\AutoHarvestZones\Source\AutoHarvestZones\obj\Debug\AutoHarv.A91BE3D7.Up2Date
+C:\Dev\GameDev\Mods\Rimworld\AutoHarvestZones\AutoHarvestZones\Source\AutoHarvestZones\obj\Debug\AutoHarvestZones.csproj.AssemblyReference.cache
+C:\Dev\GameDev\Mods\Rimworld\AutoHarvestZones\AutoHarvestZones\Source\AutoHarvestZones\obj\Debug\AutoHarvestZones.csproj.CoreCompileInputs.cache
+C:\Dev\GameDev\Mods\Rimworld\AutoHarvestZones\AutoHarvestZones\Source\AutoHarvestZones\obj\Debug\AutoHarvestZones.dll
+C:\Dev\GameDev\Mods\Rimworld\AutoHarvestZones\AutoHarvestZones\Source\AutoHarvestZones\obj\Debug\AutoHarvestZones.pdb
+C:\Dev\GameDev\Mods\Rimworld\AutoHarvestZones\AutoHarvestZones\Assemblies\AutoHarvestZones.dll
+C:\Dev\GameDev\Mods\Rimworld\AutoHarvestZones\AutoHarvestZones\Assemblies\AutoHarvestZones.pdb
+C:\Dev\GameDev\Mods\Rimworld\AutoHarvestZones\AutoHarvestZones\Source\AutoHarvestZones\obj\Debug\AutoHarv.A91BE3D7.Up2Date
